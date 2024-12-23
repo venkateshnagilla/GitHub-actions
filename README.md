@@ -1,1 +1,1 @@
-A repository that includes all examples and notes for GitHub Actions.
+Repository contaning all examples for Github actions. 
